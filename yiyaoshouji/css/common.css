@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	vertical-align: middle;
+}
+em,i{
+	font-style: normal;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.cearfix:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+body{
+	background: #F0F0F0;
+}
+.K{
+	margin:0.5rem 0.25rem 0.475rem 0.25rem;
+}

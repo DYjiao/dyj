@@ -1,0 +1,295 @@
+.top{
+	width: 16rem;
+	height: 7.125rem;
+	position: relative;
+	z-index: 1;
+}
+.top .tu{
+	position: relative;
+	z-index: 1;
+	width:16rem;
+	height:7.125rem;
+}
+.top .kuang {
+	width: 16rem;
+	height: 2.25rem;
+	background:rgba(0,0,0,.3);
+	position: absolute;
+	left: 0px;top:0px;
+	z-index: 7;
+}
+.top .fl{
+	position: absolute;
+	left:0.5rem; top:0.2rem;
+	z-index: 8; 
+	color: white;
+	width: 0.975rem;
+	height: 0.775rem;
+	font-size: 1rem;
+}
+.top .kuang .sou{
+	width:11.125rem;
+	height: 1.5rem;
+	position: absolute;
+	left:2.125rem;top:0.3rem;
+}
+.top .kuang .sou .zi{
+	width: 10.575rem;
+	height: 1.5rem;
+	border-radius: 0.1rem;
+	border: none;
+	font-size: 0.7rem;
+	padding-left: 0.55rem;
+	color: #999999;
+
+}
+.top .kuang .sou .fc{
+	z-index: 8;
+	position: absolute;
+	left:9.55rem;top:0.325rem;
+	font-size: 0.85rem;
+	color: #8C8F94;
+}
+.top .kuang .fr{
+	position: absolute;
+	left:14.05rem;top:0.6rem;
+	z-index: 8;
+	color: white;
+	font-size: 1.05rem;
+}
+.top .kuang .p1{
+	font-size: 0.5rem;
+	font-style: '微软雅黑';
+	z-index: 8;
+	position: absolute;
+	left: 0.5rem;top:1.225rem;
+	color: white;
+}
+.top .yuan{
+	position:absolute;
+	left:12.625rem;
+	top:6.525rem; 
+	width: 3rem;
+	height: 0.3rem;
+	z-index: 9;
+}
+.top .yuan li{
+	width: 0.25rem;
+	height: 0.25rem;
+	float: left;
+	color: #030C29;
+	border: 2px solid white;
+	border-radius: 50%;
+	margin-right: 0.075rem;
+}
+.top .yuan .li1{
+	background: white;
+}
+/*二*/
+.er{
+	width: 15.5rem;
+	height: 8.25rem;
+	background: white;
+	font-size: 0.5rem;
+
+}
+.er li{
+	float: left;
+	width: 25%;
+	text-align: center;
+	padding-top: 0.6rem;
+}
+.er li img{
+	width:2.625rem;
+	height:2.625rem;
+}
+/* 全网最低价 */
+.quan{
+	width: 15.5rem;
+	height: 10.2rem;
+	background: white;
+}
+.quan .qt{
+	width: 15.15rem;
+	height: 1.15rem;
+	border-bottom: 1px solid #DADADA;
+	padding-left:0.35rem;
+	padding-top: 0.45rem;
+}
+.quan .qt p{
+	font-size:0.65rem;
+	color:#656565;
+	width:4.125rem;
+	height:0.625rem;
+	border-left:0.15rem solid #2A89DE ;
+	padding-left:0.5rem;
+	
+}
+.quan .ql{
+	width: 6.725rem;
+	height: 7.375rem;
+	border-right: 0.025rem solid #DADADA ;
+	padding-top:1.2rem ;
+	padding-left:0.95rem ;
+}
+.quan .ql .quan1{
+	width: 6.75rem;
+	height: 4.65rem;
+	margin-top: 0.35rem;
+	margin-left: -0.025rem;
+}
+.quan p{
+	font-size: 0.55rem;
+}
+.quan .qr1 .p2{
+	height:1.4rem;
+}
+.quan .qr1 .p33{
+	width: 5rem;
+	height: 0.75rem;
+}
+.quan .qr1 .p22{
+	width: 1.875rem;
+}
+.quan span{
+	font-size: 0.75rem;
+	color: red;
+}
+.quan .span2{
+	margin-top:1.275rem ;
+}
+.quan .qr1{
+	width: 7.45rem;
+	height: 3.575rem;
+	padding:0.625rem 0px 0px 0.35rem;
+	border-bottom:  0.025rem solid #DADADA;
+}
+.quan .qr1 .quan2{
+	width: 3.425rem;
+	height: 3.65rem;
+	float: right;
+	margin-top: -1.5rem;
+}
+.quan .qr2 .quan3{
+	width: 3.1rem;
+	height: 3.5rem;
+	margin-top: 0.525rem;
+	margin-left: 0.275rem;
+	float: left;
+}
+.quan .qr2{
+	width: 7.8rem;
+	height: 4.35rem;
+}
+.quan .qr2 .p3{
+	margin-left: 4.15rem;
+	margin-top: 0.975rem;
+}
+/* 答谢恩师 */
+.quan .qll{
+	width: 6.725rem;
+	height: 7.375rem;
+	border-left: 0.025rem solid #DADADA ;
+	padding-top:1.2rem ;
+	padding-left:0.95rem ;
+	margin-top: -4.25rem;
+}
+.quan .qll .quan1{
+	width: 6.75rem;
+
+	height: 4.65rem;
+	margin-top: 0.35rem;
+	margin-left: -0.025rem;
+}
+.quan .qr2 .q3{
+	width: 2.125rem;
+	height: 3.85rem;
+	margin-top: 0.475rem;
+}
+.quan .qr2 .pp3{
+	margin-left: 2.5rem;
+	margin-top: 0.975rem;
+}
+.pian .tu{
+	width: 15.5rem;
+	height: 2.5rem;
+}
+/* 美美哒 */
+
+.quan .qr1 .quan22{
+	width: 3.675rem;
+	height: 2.9rem;
+	margin-top: -0.8rem;
+}
+.quan .ql .quan11{
+	width: 7.3rem;
+	height:6.225rem;
+	margin-top: -0.25rem;
+	margin-left: -0.75rem;
+}
+.quan .di{
+	width: 16rem;
+	height: 1.725rem;
+	background: white;
+	margin-top: 7.725rem;
+	margin-left: -0.2rem;
+	border-bottom: 2px solid #DDDDDD;
+}
+/* 尾部 */
+.wei{
+	width: 16rem;
+	height: 4.025rem;
+	margin-top:0.875rem ;
+	margin-left: 0.05rem;
+}
+.wei .one{
+	width: 14.575rem;
+	height: 1.05rem;
+	line-height: 1.05rem;
+	background: #E8E8E8;
+	font-size: 0.35rem;
+	padding-left:13px ;
+	padding-right: 1.125rem;
+}
+.wei .one a{
+	color: #2A8ADE;
+}
+.wei .one span{
+	color: #C8C8C8;
+	margin:0.4rem;
+}
+.wei .one .a3 img{
+	width: 0.275rem;
+	height: 0.225rem;
+	margin-top: -0.125rem;
+}
+.wei .two{
+	width: 16rem;
+	height: 1.075rem;
+	line-height: 1.075rem;
+	background:#1771D2 ;
+	color: #fff;
+	font-size: 0.3rem;
+	text-align: center;
+}
+.wei .two a{
+	color: #fff;
+}
+.wei .two span {
+	margin: 0.4rem;
+}
+.wei .three{
+	background:#2A8ADE ;
+	
+}
+.wei .three ul{
+	margin-left:3.2rem ;
+}
+.wei .three li{
+	float: left;
+	margin-right: 0.175rem;
+	margin-left: 0.175rem;
+}
+.wei .four{
+	color: #F0F69E;
+}
